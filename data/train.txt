@@ -1,4 +1,4 @@
--DOCSTART- -X- -X- O
+-DOCSTART- -X- -X- O 
 
 EU NNP B-NP B-ORG
 rejects VBZ B-VP O
